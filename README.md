@@ -16,18 +16,33 @@ You can click the Preview link to take a look at your changes.
 
 ## My Skill Set  
 
+## Repo Stats
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=DandyHayate&repo=Botlogin&theme=dark)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=DandyHayate&repo=BC-LIFF&theme=nightowl)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=DandyHayate&repo=CakarKucingJS&theme=dark)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=DandyHayate&repo=DandyHayateSB&theme=nightowl)
 
 
-### DevOps  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
-</div>
+<p>
+    <img src="https://img.shields.io/badge/OS-Linux-blue?&logo=Linux" />
+    <img src="https://img.shields.io/badge/OS-Windows-blue?&logo=Windows" />
+    <img src="https://img.shields.io/badge/IDE-Xcode-blue?&logo=xcode" />
+    <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
+    <img src="https://img.shields.io/badge/Sublime%20Text-gray?&logo=Sublime-Text" />
+</p>
+<details>
+    <summary>&#127942 <b>GitHub Awards</b></summary><br/>
 
-</td></tr></table>  
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=phaticusthiccy)
 
-<br/>  
+</details>
+
+<details>
+    <summary>&#127942 <b>GitHub Activity</b></summary><br/>
+
+![Metrics](https://metrics.lecoq.io/DandyHayate?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FMakassar)
+
+</details>
 
 
 ## Connect with me  
