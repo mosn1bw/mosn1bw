@@ -13,9 +13,6 @@ You can click the Preview link to take a look at your changes.
 ![snake gif](https://raw.githubusercontent.com/navaneethkm004/navaneethkm004/navaneethkm004-patch-2/snek.svg)
 <div align="center">
   
-
-## My Skill Set  
-
 ## Repo Stats
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=DandyHayate&repo=Botlogin&theme=dark)
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=DandyHayate&repo=BC-LIFF&theme=nightowl)
@@ -33,17 +30,8 @@ You can click the Preview link to take a look at your changes.
 <details>
     <summary>&#127942 <b>GitHub Awards</b></summary><br/>
 
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=phaticusthiccy)
-
-</details>
-
 <details>
     <summary>&#127942 <b>GitHub Activity</b></summary><br/>
-
-![Metrics](https://metrics.lecoq.io/DandyHayate?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FMakassar)
-
-</details>
-
 
 ## Connect with me  
 <div align="center">
