@@ -15,12 +15,6 @@ You can click the Preview link to take a look at your changes.
   
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-
-
-
-</td><td valign="top" width="33%">
 
 
 
