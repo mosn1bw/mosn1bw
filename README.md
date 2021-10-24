@@ -17,7 +17,6 @@ You can click the Preview link to take a look at your changes.
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=DandyHayate&repo=Botlogin&theme=dark)
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=DandyHayate&repo=BC-LIFF&theme=nightowl)
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=DandyHayate&repo=CakarKucingJS&theme=dark)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=DandyHayate&repo=DandyHayateSB&theme=nightowl)
 
 
 <p>
