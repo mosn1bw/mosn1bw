@@ -10,20 +10,15 @@ mosn1bw/mosn1bw is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
+![snake gif](https://raw.githubusercontent.com/navaneethkm004/navaneethkm004/navaneethkm004-patch-2/snek.svg)
+<div align="center">
+  
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
 
 
-
-### Backend  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />   
-</div>
 
 </td><td valign="top" width="33%">
 
@@ -69,9 +64,6 @@ You can click the Preview link to take a look at your changes.
 <div align="center">
 <p><a href="https://github.com/navaneethkm004"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=navaneethkm004&amp;layout=compact" alt="Top Langs"></a></p></div>  
 
-![snake gif](https://raw.githubusercontent.com/navaneethkm004/navaneethkm004/navaneethkm004-patch-2/snek.svg)
-<div align="center">
-  
 <br/>  
 <img src="https://komarev.com/ghpvc/?username=navaneethkm004&&style=flat-square" align="center" />
 </div> 
