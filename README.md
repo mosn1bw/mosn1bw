@@ -8,16 +8,6 @@ You can click the Preview link to take a look at your changes.
 
 ![snake gif](https://raw.githubusercontent.com/navaneethkm004/navaneethkm004/navaneethkm004-patch-2/snek.svg)
 <div align="center">
-  - 👀 I’m interested in learning...
-- 🌱 I’m currently learning through trial and error...
-- 💞️ I’m looking to collaborate on building a bot
-  
-## Repo Stats
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=DandyHayate&repo=Botlogin&theme=dark)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=DandyHayate&repo=BC-LIFF&theme=nightowl)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=DandyHayate&repo=CakarKucingJS&theme=dark)
-
-- 💞️
 <p>
     <img src="https://img.shields.io/badge/OS-Linux-blue?&logo=Linux" />
     <img src="https://img.shields.io/badge/OS-Windows-blue?&logo=Windows" />
