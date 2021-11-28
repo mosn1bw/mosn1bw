@@ -8,12 +8,11 @@ You can click the Preview link to take a look at your changes.
 
 <h1 align="center"> Connect with me
 <p align="center">
-  <a href="https://instagram.com/DandyHayate"><img src="https://img.shields.io/badge/Instagram-FFD700?style=for-the-badge&logo=instagram&logoColor=black"/> 
-  <a href="https://wa.me/62895336669257?text=Hay%20Abang%20boleh%20gak%20kujadi%20pacarnya"><img src="https://img.shields.io/badge/WhatsApp-FFD700?style=for-the-badge&logo=whatsapp&logoColor=black" />
-  <a href="https://m.facebook.com/photo.php?fbid=2225284347524261&id=100001281536035"><img src="https://img.shields.io/badge/Facebook-%FFD700.svg?&style=for-the-badge&logo=facebook&logoColor=black" />
-  <a href="https://t.me/MOHSEN-BW"><img src="https://img.shields.io/badge/Telegram-%FFD700?&style=for-the-badge&logo=telegram&logoColor=black" /> <br>
+  <a href="https://instagram.com/mosen.bw"><img src="https://img.shields.io/badge/Intagram-FFD700?style=for-the-badge&logo=instagram&logoColor=black"/> 
+  <a href="https://wa.me/6289533669257?text=Hay%20Abang%20boleh%20gak%20kujadi%20pacarnya"><img src="https://img.shields.io/badge/WhatsApp-FFD700?style=for-the-badge&logo=whatsapp&logoColor=black" />
+  <a href="https://m.facebook.com/photo.php?fbid=2225284347524261&id=1000081536035"><img src="https://img.shields.io/badge/Facebook-%FFD700.svg?&style=for-the-badge&logo=facebook&logoColor=black" />
+  <a href="https://t.me/MSN-BW"><img src="https://img.shields.io/badge/Telegram-%FFD700?&style=for-the-badge&logo=telegram&logoColor=black" /> <br>
   <a href="https://github.com/MOHSEN-BW"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> 
-  <a href="https://youtube.com/channel/UCWNKR_INGuazISAO5zd7wOQ"><img src="https://img.shields.io/youtube/channel/subscribers/UCdzWwbApjkyODby7_MoRYlA?style=social" /> <br>
 </p>
 
 
