@@ -8,19 +8,7 @@ You can click the Preview link to take a look at your changes.
 
 ![snake gif](https://raw.githubusercontent.com/navaneethkm004/navaneethkm004/navaneethkm004-patch-2/snek.svg)
 <div align="center">
-<p>
-    <img src="https://img.shields.io/badge/OS-Linux-blue?&logo=Linux" />
-    <img src="https://img.shields.io/badge/OS-Windows-blue?&logo=Windows" />
-    <img src="https://img.shields.io/badge/IDE-Xcode-blue?&logo=xcode" />
-    <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
-    <img src="https://img.shields.io/badge/Sublime%20Text-gray?&logo=Sublime-Text" />
-</p>
-<details>
-    <summary>&#127942 <b>GitHub Awards</b></summary><br/>
-- 💞️
-<details>
-    <summary>&#127942 <b>GitHub Activity</b></summary><br/>
-- 💞️
+
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/mosn1bw" target="_blank">
