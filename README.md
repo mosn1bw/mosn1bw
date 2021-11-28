@@ -1,6 +1,3 @@
-- 👋 Hi, I’m MOHSEN
-
-
 <!---
 mosn1bw/mosn1bw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -34,6 +31,3 @@ You can click the Preview link to take a look at your changes.
 <p><a href="https://github.com/navaneethkm004"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=navaneethkm004&amp;layout=compact" alt="Top Langs"></a></p></div>  
 
 <br/>  
-<img src="https://komarev.com/ghpvc/?username=navaneethkm004&&style=flat-square" align="center" />
-</div> 
-<br/> 
