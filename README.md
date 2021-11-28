@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=DandyHayate&repo=BC-LIFF&theme=nightowl)
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=DandyHayate&repo=CakarKucingJS&theme=dark)
 
-
+- 💞️
 <p>
     <img src="https://img.shields.io/badge/OS-Linux-blue?&logo=Linux" />
     <img src="https://img.shields.io/badge/OS-Windows-blue?&logo=Windows" />
@@ -27,10 +27,10 @@ You can click the Preview link to take a look at your changes.
 </p>
 <details>
     <summary>&#127942 <b>GitHub Awards</b></summary><br/>
-
+- 💞️
 <details>
     <summary>&#127942 <b>GitHub Activity</b></summary><br/>
-
+- 💞️
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/mosn1bw" target="_blank">
@@ -42,7 +42,7 @@ You can click the Preview link to take a look at your changes.
 <a href="https://github.com/mohsen-bw" target="_blank">
 <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
 </a>
-
+- 💞️
 <br/>  
 
 
